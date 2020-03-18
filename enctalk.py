@@ -1,6 +1,5 @@
 choose = int(input('Enter your choice 1 for Encryption, 0 for Decrption'))
 
-
 if choose == 1:
     msg = input('Enter your message here:- ')
     k1 = int(input('Enter your enc. key here:- '))
